@@ -1,2 +1,2 @@
 # socket
-this is an client and server for socket
+a client and server for socket
